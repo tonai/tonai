@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🙋 Welcome
 
-<!--
-**tonai/tonai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm tonai a JavaScript Full Stack and Frontend expert from France 🇫🇷.
 
-Here are some ideas to get you started:
+You can reach me on following platforms:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tony-cabaye/)
+[![Github](https://img.shields.io/badge/github-2b3137?logo=github&logoColor=white&style=for-the-badge)](https://github.com/tonai)
+[![X](https://img.shields.io/badge/x-00acee?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/CabayeTony)
+
+And you can support my job here:
+
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/tonai)
