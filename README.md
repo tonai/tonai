@@ -2,6 +2,8 @@
 
 Hi there, I'm tonai a JavaScript Full Stack and Frontend expert from France 🇫🇷.
 
+Here is [my personal website and blog](https://tonai.github.io/blog/).
+
 You can reach me on following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tony-cabaye/)
